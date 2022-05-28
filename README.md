@@ -1,6 +1,5 @@
 - Hello World
 - I’m interested in learning Azure DevOps..
-- This is my new project
 
 <!---
 Sagar08051994/Sagar08051994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
